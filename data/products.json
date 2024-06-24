@@ -1,0 +1,72 @@
+[
+    {
+        "id": "00001-1",
+        "brand": "Mayoral",
+        "tipo": "Otoño-Invierno",
+        "image": "https://smartmom.cl/cdn/shop/files/vestido-combinado-tricot-y-tul-recien-nacido-champan-XL-1_720x.jpg?v=1712803608",
+        "price": 79.990
+    },
+    {
+        "id": "00002-1",
+        "brand": "Mayoral",
+        "tipo": "Otoño-Invierno",
+        "image": "https://smartmom.cl/cdn/shop/files/abrigo-pelo-bebe-garbanzo-XL-2_52a8dce4-32d5-4e3a-b741-91a8b87e685e_200x.jpg?v=1713054415",
+        "price": 62.900
+    },
+    {
+        "id": "00003-2",
+        "brand": "Mayoral",
+        "tipo": "Otoño-Invierno",
+        "image": "https://smartmom.cl/cdn/shop/files/pelele-peto-simulado-recien-nacido-algodon-XL-1_200x.jpg?v=1713559991",
+        "price": 46.800
+    },
+    {
+        "id": "00004-2",
+        "brand": "Mayoral",
+        "tipo": "Otoño-Invierno",
+        "image": "https://smartmom.cl/cdn/shop/files/chandal-3-piezas-better-cotton-recien-nacido-madera-XL-1_49668812-0b89-4887-a8c5-95da9ee7248d_360x.jpg?v=1713037749",
+        "price": 66.500
+    },
+    {
+        "id": "00005-1",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://smartmom.cl/cdn/shop/files/Capturadepantalla2023-09-24alas00.01.11_120x.png?v=1695527620",
+        "price": 43.800
+    },
+    {
+        "id": "00006-1",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://smartmom.cl/cdn/shop/files/Capturadepantalla2023-09-23alas23.14.24_120x.png?v=1695522087",
+        "price": 66.500
+    },
+    {
+        "id": "00007-2",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1702634359/24-01248-044-XL-4/conjunto-2-piezas-lino-rayas-bebe-eucalipto-XL-4.jpg",
+        "price": 36.500
+    },
+    {
+        "id": "00008-2",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_600/v1702630552/24-00303-043-XL-4/jersey-basico-better-cotton-bebe-eucalipto-XL-4.jpg",
+        "price": 42.500
+    },
+    {
+        "id": "00009-1",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1702643688/24-03706-059-XL-4/conjunto-2-piezas-nina-tejano-medio-XL-4.jpg",
+        "price": 39.500
+    },
+    {
+        "id": "00009-1",
+        "brand": "Mayoral",
+        "tipo": "Primavera-Verano",
+        "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1702641877/24-03281-035-XL-4/conjunto-2-piezas-vestir-better-cotton-nino-rafia-XL-4.jpg",
+        "price": 49.500
+    }
+]
